@@ -1,4 +1,5 @@
-if(ch=='A' or ch=='a' orch=='E' orch=='e' orch=='I' orch=='i' orch=='O' orch=='o' orch=='U' orch=='u'):
-  print("Vowel")
+ch=input()
+if(ch=='A' or ch=='a' or ch=='E' or ch=='e' or ch=='I' or ch=='i' or ch=='O' or ch=='o' or ch=='U' or ch=='u'):
+	print("Vowel")
 else:
-  print("Consonant")
+	print("Consonant")
